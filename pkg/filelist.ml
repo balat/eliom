@@ -21,13 +21,15 @@ let server = {
     "eliom_comet";
     "eliom_common";
     "eliom_config";
+    "eliom_content_svg_raw";
+    "eliom_content_html_raw";
+
     "eliom_content_svg_f_raw";
     "eliom_content_svg_f";
     "eliom_content_svg_d_raw";
     "eliom_content_svg_d";
     "eliom_content_svg_r_raw";
     "eliom_content_svg_r";
-    "eliom_content_svg";
     "eliom_content_html_f_raw";
     "eliom_content_html_f";
     "eliom_content_html_d_raw";
@@ -103,6 +105,8 @@ let client = {
     "eliom_client";
     "eliom_comet";
     "eliom_config";
+    "eliom_content_svg_raw";
+    "eliom_content_html_raw";
     "eliom_content_svg_f_raw";
     "eliom_content_svg_f";
     "eliom_content_svg_d_raw";
